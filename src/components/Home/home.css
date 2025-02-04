@@ -1,0 +1,14 @@
+#top_section_list li::before{
+    content:"✦ ";
+    font-size: 2vw;
+    color:blueviolet;
+    margin-right: 0.35rem; /* Space between bullet and text */
+}
+
+#feature_list ul li::before{
+    content:"✦ ";
+    font-size: 2vw;
+    color:blueviolet;
+    margin-right: 0.35rem; /* Space between bullet and text */
+
+}

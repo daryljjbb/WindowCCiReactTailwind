@@ -1,0 +1,24 @@
+#top_header::before{
+    content:"❝ ";
+    font-size:2.5vw;
+    color:white;
+
+}
+#top_header::after{
+    content:"❞";
+    font-size:2.5vw;
+    color:white;
+
+}
+.about_card_body::first-letter{
+    font-size:100px;
+    display:block;
+    float:left;
+    line-height:0.5;
+    margin:15px 15px 10px 0;
+
+}
+.about_card_body{
+    font-family: 'Cormorant infant';
+
+}
